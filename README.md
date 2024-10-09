@@ -1,9 +1,9 @@
 # *Byte_Enable Memory*
 ## Introduction
-### Problem Statement
-#### Abstract
-##### Reference papers
-###### Paper 1
-####### Paper 2
-######## Paper 3
-######### Paper 4
+## Problem Statement
+## Abstract
+## Reference papers
+### paper 1
+### paper 2
+### paper 3
+### paper 4
